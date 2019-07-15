@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Song-Selector-App/static/js/main.eeb1fd3e.chunk.js",
+    "main.js.map": "/Song-Selector-App/static/js/main.eeb1fd3e.chunk.js.map",
+    "runtime~main.js": "/Song-Selector-App/static/js/runtime~main.c8cc66da.js",
+    "runtime~main.js.map": "/Song-Selector-App/static/js/runtime~main.c8cc66da.js.map",
+    "static/js/2.af59a648.chunk.js": "/Song-Selector-App/static/js/2.af59a648.chunk.js",
+    "static/js/2.af59a648.chunk.js.map": "/Song-Selector-App/static/js/2.af59a648.chunk.js.map",
+    "index.html": "/Song-Selector-App/index.html",
+    "precache-manifest.cec46383f223aebbfcead97e321bcc87.js": "/Song-Selector-App/precache-manifest.cec46383f223aebbfcead97e321bcc87.js",
+    "service-worker.js": "/Song-Selector-App/service-worker.js"
+  }
+}
